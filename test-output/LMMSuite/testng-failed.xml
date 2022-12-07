@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LMMSuite]">
+  <test name="LMM_ND_Test">
+    <classes>
+      <class name="elementsExcelRead.TestDetails_ExcelRead"/>
+      <class name="elementsExcelRead.Login_Elements"/>
+      <class name="beforeTest.DriverConfig"/>
+      <class name="beforeTest.Login"/>
+      <class name="marketTypesTest.Loan_ND_Test"/>
+    </classes>
+  </test> <!-- LMM_ND_Test -->
+</suite> <!-- Failed suite [LMMSuite] -->
